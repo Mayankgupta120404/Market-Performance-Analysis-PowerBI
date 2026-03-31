@@ -14,9 +14,6 @@ This project focuses on analyzing market dynamics using Power BI. It transforms 
 - **DAX (Data Analysis Expressions)**
 - **Power Query** (M Language)
 
-## Dashboard Preview
-![Dashboard Screenshot](dashboard 1.png)
-
 ## How to View
 1. Clone this repository.
 2. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).

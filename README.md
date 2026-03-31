@@ -15,7 +15,7 @@ This project focuses on analyzing market dynamics using Power BI. It transforms 
 - **Power Query** (M Language)
 
 ## Dashboard Preview
-![Dashboard Screenshot](./Screenshots/your_screenshot_name.png)
+![Dashboard Screenshot](dashboard 1.png)
 
 ## How to View
 1. Clone this repository.
